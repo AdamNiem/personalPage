@@ -34,6 +34,7 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 Some info on how to make a site like this and how it works.
 
 - [About](about.md)
+- [Code Snippets](code.md)
 - [Features](features.md)
 - [Limitations](limitations.md)
 - [What about a Wiki?](wiki.md)
